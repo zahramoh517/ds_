@@ -1,0 +1,19 @@
+/* CTA.css */
+.cta-container {
+    text-align: center; 
+    margin-top: 20px;
+  }
+  
+  .cta-text {
+    margin: 0; 
+  font-size: 1em; 
+  
+  }
+  
+  .cta-button {
+  margin-top: 30px;
+  padding: 10px 20px; 
+  font-size: 1em; 
+  cursor: pointer; 
+  }
+  
